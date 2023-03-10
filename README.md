@@ -9,10 +9,13 @@ This App was created in SwiftUI to demo some useful functionalities of reusable 
 
 More updates will be added to the project with time
 
-### What to look out for
+### Features
+
+Things to lookout for in the Project
+
 
 ## Screenshots
 
-| **Screenshot** | **GIF** |
-| -------------- | ------- |
-| <img src="./Assets/screenshot.jpg" width="300" /> | <video src="./Assets/video.mp4" width="300" /> |
+| **Screenshot** | **VIDEO** |
+| -------------- | --------- |
+| <img src="Assets/screenshot.png" width="300" /> | <video src="Assets/video.mp4" width="300" />|
