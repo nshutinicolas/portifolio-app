@@ -29,6 +29,7 @@ struct CardView: View {
             Text(title)
                 .font(Montserrat.medium.font(size: 16))
         }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
         .padding()
         .background(.thinMaterial)
         .cornerRadius(8)
@@ -38,5 +39,6 @@ struct CardView: View {
 struct CardView_Previews: PreviewProvider {
     static var previews: some View {
         CardView(title: "house", image: "house")
+            .previewLayout(.sizeThatFits)
     }
 }
