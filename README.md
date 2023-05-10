@@ -18,4 +18,8 @@ Things to lookout for in the Project
 
 | **Screenshot** | **VIDEO** |
 | -------------- | --------- |
-| <img src="Assets/screenshot.png" width="300" /> | <video src="Assets/video.mp4" width="300" />|
+| <img src="Assets/screenshot.png" width="300" /> | <video src="https://github.com/nshutinicolas/portifolio-app/assets/50362644/5ba1de59-8413-4c59-9671-879b25b4883a" width="300" />|
+
+
+
+
